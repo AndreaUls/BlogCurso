@@ -3,5 +3,6 @@ body
     text-align: center;
     font-size: 54px;
     color: rgb(27, 27, 87);
+    background-color: pink;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
